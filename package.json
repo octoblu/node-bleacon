@@ -1,6 +1,6 @@
 {
-  "name": "bleacon",
-  "version": "0.4.0",
+  "name": "@octoblu/bleacon",
+  "version": "1.0.0",
   "description": "A Node.js library for creating, discovering, and configuring iBeacons",
   "main": "index.js",
   "scripts": {
@@ -19,14 +19,14 @@
     "url": "https://github.com/sandeepmistry/node-bleacon/issues"
   },
   "dependencies": {
-    "bignum": "^0.11.0",
-    "bleno": "^0.2.0",
+    "bignum": "^0.12.0",
+    "bleno": "^0.4.0",
     "debug": "^2.2.0",
     "noble": "^1.1.0",
     "noble-device": "^1.1.0"
   },
   "devDependencies": {
-    "jshint": "~2.1.11",
-    "async": "~0.2.9"
+    "async": "^1.5.2",
+    "jshint": "^2.9.2"
   }
 }
