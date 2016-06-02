@@ -1,6 +1,6 @@
 {
   "name": "@octoblu/bleacon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js library for creating, discovering, and configuring iBeacons",
   "main": "index.js",
   "scripts": {
